@@ -4,4 +4,10 @@
     "tz": "America/Edmonton"
   },
   "medications": [
-    {
+    {
+      "id": "med-1",
+      "name": "Amoxicillin",
+      "dosage": "500mg",
+      "schedule": [
+        "08:00",
+        "20:00"
