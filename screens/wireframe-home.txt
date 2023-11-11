@@ -1,1 +1,2 @@
-Home: Today reminders list
+Home: Today reminders list
+[8:00] Amoxicillin 500mg [Taken] [Snooze]

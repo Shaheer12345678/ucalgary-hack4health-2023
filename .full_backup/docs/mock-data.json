@@ -10,4 +10,10 @@
       "dosage": "500mg",
       "schedule": [
         "08:00",
-        "20:00"
+        "20:00"
+      ]
+    },
+    {
+      "id": "med-2",
+      "name": "Vitamin D",
+      "dosage": "1000 IU",
