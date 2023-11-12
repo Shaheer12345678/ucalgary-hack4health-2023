@@ -16,4 +16,10 @@
     {
       "id": "med-2",
       "name": "Vitamin D",
-      "dosage": "1000 IU",
+      "dosage": "1000 IU",
+      "schedule": [
+        "09:00"
+      ]
+    }
+  ],
+  "logs": [

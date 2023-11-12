@@ -6,4 +6,7 @@
 - **Notifications:** Firebase Cloud Messaging + local notifications
 - **Storage:** Firebase Storage for optional prescription images
 
-## Collections
+## Collections
+
+- `users/{uid}`: profile, timezone
+- `users/{uid}/medications/{medId}`: name, dosage, schedule (RRULE-like)
