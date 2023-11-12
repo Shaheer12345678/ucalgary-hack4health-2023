@@ -8,4 +8,6 @@ This folder documents **MediTrack** — a concept app for medication reminders &
 
 - `docs/architecture.md` — overview of Flutter + Firebase architecture used in the event.
 - `docs/user-stories.md` — problem framing & personas.
-- `docs/mock-data.json` — small sample of reminder data format.
+- `docs/mock-data.json` — small sample of reminder data format.
+- `screens/` — placeholder wireframes (PNG) you can replace with real screenshots later.
+
