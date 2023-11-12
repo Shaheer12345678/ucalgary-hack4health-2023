@@ -1,2 +1,3 @@
 Home: Today reminders list
-[8:00] Amoxicillin 500mg [Taken] [Snooze]
+[8:00] Amoxicillin 500mg [Taken] [Snooze]
+[9:00] Vitamin D 1000 IU [Taken]

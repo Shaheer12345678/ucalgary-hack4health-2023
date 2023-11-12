@@ -9,4 +9,7 @@
 ## Collections
 
 - `users/{uid}`: profile, timezone
-- `users/{uid}/medications/{medId}`: name, dosage, schedule (RRULE-like)
+- `users/{uid}/medications/{medId}`: name, dosage, schedule (RRULE-like)
+- `users/{uid}/logs/{logId}`: taken/skipped, timestamp, reason
+
+## Reminder Flow
