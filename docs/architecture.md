@@ -15,4 +15,6 @@
 ## Reminder Flow
 1. User creates medication with schedule (e.g., 8:00, 20:00 daily).
 2. App registers local notifications using device timezone.
-3. User taps **Taken**; log is written to `logs` and adherence % updates.
+3. User taps **Taken**; log is written to `logs` and adherence % updates.
+4. Offline first; background sync when network available.
+

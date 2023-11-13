@@ -34,4 +34,10 @@
       "status": "skipped",
       "reason": "forgot"
     },
-    {
+    {
+      "medId": "med-2",
+      "ts": "2025-10-21T09:00:00-06:00",
+      "status": "taken"
+    }
+  ]
+}
