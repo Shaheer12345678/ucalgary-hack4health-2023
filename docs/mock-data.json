@@ -1,0 +1,43 @@
+{
+  "user": {
+    "uid": "demo-user",
+    "tz": "America/Edmonton"
+  },
+  "medications": [
+    {
+      "id": "med-1",
+      "name": "Amoxicillin",
+      "dosage": "500mg",
+      "schedule": [
+        "08:00",
+        "20:00"
+      ]
+    },
+    {
+      "id": "med-2",
+      "name": "Vitamin D",
+      "dosage": "1000 IU",
+      "schedule": [
+        "09:00"
+      ]
+    }
+  ],
+  "logs": [
+    {
+      "medId": "med-1",
+      "ts": "2025-10-20T08:05:00-06:00",
+      "status": "taken"
+    },
+    {
+      "medId": "med-1",
+      "ts": "2025-10-20T20:10:00-06:00",
+      "status": "skipped",
+      "reason": "forgot"
+    },
+    {
+      "medId": "med-2",
+      "ts": "2025-10-21T09:00:00-06:00",
+      "status": "taken"
+    }
+  ]
+}
